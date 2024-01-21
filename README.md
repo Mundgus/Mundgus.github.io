@@ -1,3 +1,10 @@
+Github pages: https://pages.github.com/
+Custom url: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+Getting started: https://blog.logrocket.com/deploying-react-apps-github-pages/
+Folder structure: https://nagibaba.medium.com/best-folder-structure-for-react-apps-in-2022-c1a34c52a01e
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
